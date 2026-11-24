@@ -1,3 +1,4 @@
+// Forecast for a city that only exists on a good morning commute.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const ENTRY =
